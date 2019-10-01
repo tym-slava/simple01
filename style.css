@@ -1,0 +1,38 @@
+#header {
+    width: 760px;
+    background-color: #A62A2A;
+    color: #FFFCF9;
+}
+
+#header h1 {
+    text-align: center;
+}
+
+#pic2 {
+    text-align: center;
+}
+
+#pic2 img {
+    border-style: dashed;
+    border-color: #000000;
+}
+
+body {
+    font-size: 18px;
+    width: 760px;
+    margin: 0 auto;
+}
+
+i, span {
+    color: #5A84FF;
+}
+
+footer {
+    font-size: 20px;
+    background-color: #000000;
+    color: #E3E4D9;
+}
+
+footer p {
+    text-align: center;
+}
